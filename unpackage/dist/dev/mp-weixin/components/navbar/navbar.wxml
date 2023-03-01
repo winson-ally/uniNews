@@ -1,0 +1,1 @@
+<view class="navbar"><view class="zhanwei" style="{{'height:'+(stuH+'px')+';'}}"></view><view class="search-bar"><icon type="search"></icon><text>uni-app、vue</text></view></view>
